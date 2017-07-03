@@ -1,0 +1,1 @@
+UPDATE `bd_congreso_ochenta`.`asistente` SET `nom_asis` = 'prueba', `ap_paterno` = 'prueba', `ap_materno` = 'prueba', `email`= 'prueba', `tipo_asist` = '2', `id_grado` = 3, `telefono` = 'prueba', `celular` = 'prueba' WHERE `asistente`.`idasistente` = 3;
